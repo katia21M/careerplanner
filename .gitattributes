@@ -1,2 +1,29 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# .gitignore
+__pycache__/
+*.pyc
+.env
+*.env
+venv/
+.mypy_cache/
+*.db
+*.sqlite3
+# Python bytecode
+*.py[cod]
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Logs
+*.log
+# Coverage reports
+*.coverage
+.coverage.*
+# Pytest cache
+.pytest_cache/
+# Virtual environment directories
+.env/
+.venv/
+# IDE specific files
+.vscode/
+.idea/
+

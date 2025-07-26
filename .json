@@ -1,0 +1,150 @@
+{
+  "recommendations": [
+    "Frontend Dev",
+    "Data Analyst",
+    "Security Analyst",
+    "Backend Developer",
+    "UI/UX Designer",
+    "Product Manager",
+    "Fullstack Engineer",
+    "Data Scientist"
+  ],
+  "user_input": {
+    "skills": "Python, React",
+    "interests": "AI, Web Development",
+    "personality": "Analytical, Creative",
+    "description": "Love solving real-world problems"
+  },
+  "featured_job": {
+    "job_title": "Software Engineer",
+    "location": "Remote",
+    "salary_range": "$80,000 - $120,000",
+    "company": "Tech Innovators Inc.",
+    "job_type": "Full-time",
+    "requirements": [
+      "Bachelor's degree in Computer Science or related field",
+      "3+ years of experience in software development",
+      "Proficiency in Python and React",
+      "Strong problem-solving skills"
+    ],
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Flexible working hours",
+      "Professional development opportunities"
+    ]
+  },
+  "job_recommendations_detailed": [
+    {
+      "title": "Frontend Developer",
+      "location": "Remote",
+      "salary_range": "$70,000 - $110,000",
+      "company": "Web Solutions Ltd.",
+      "job_type": "Full-time"
+    },
+    {
+      "title": "Data Analyst",
+      "location": "New York, NY",
+      "salary_range": "$65,000 - $95,000",
+      "company": "Data Insights Corp.",
+      "job_type": "Full-time"
+    },
+    {
+      "title": "Security Analyst",
+      "location": "San Francisco, CA",
+      "salary_range": "$90,000 - $130,000",
+      "company": "CyberSafe Inc.",
+      "job_type": "Full-time"
+    }
+  ],
+  "job_search_tips": [
+    "Tailor your resume for each application",
+    "Network with professionals in your field",
+    "Prepare for technical interviews",
+    "Showcase your projects on GitHub",
+    "Stay updated with industry trends"
+  ],
+  "career_goals": [
+    "Become a lead developer within 5 years",
+    "Contribute to open-source projects",
+    "Mentor junior developers",
+    "Expand knowledge in AI and machine learning"
+  ],
+  "job_market_trends": [
+    "Increased demand for remote work opportunities",
+    "Growing importance of cybersecurity roles",
+    "Rise in AI and machine learning applications",
+    "Emphasis on user experience design"
+  ],
+  "resume_tips": [
+    "Use action verbs to describe your achievements",
+    "Quantify your accomplishments where possible",
+    "Keep it concise, ideally one page",
+    "Include relevant keywords from the job description"
+  ],
+  "interview_preparation": [
+    "Research the company and its culture",
+    "Practice common technical interview questions",
+    "Prepare questions to ask the interviewer",
+    "Dress appropriately for the interview"
+  ],
+  "networking_advice": [
+    "Join professional groups on LinkedIn",
+    "Attend industry conferences and meetups",
+    "Engage in online forums related to your field",
+    "Reach out to alumni from your university"
+  ],
+  "salary_negotiation_tips": [
+    "Know your worth based on market research",
+    "Be prepared to discuss your salary expectations",
+    "Consider the entire compensation package, not just salary",
+    "Practice negotiation conversations with a friend"
+  ],
+  "career_paths": [
+    "Software Engineer",
+    "Data Scientist",
+    "Product Manager",
+    "UI/UX Designer",
+    "DevOps Engineer",
+    "Cybersecurity Specialist",
+    "Cloud Solutions Architect",
+    "Machine Learning Engineer",
+    "Business Analyst",
+    "Mobile App Developer",
+    "Game Developer",
+    "Systems Analyst",
+    "Network Administrator",
+    "Database Administrator",
+    "Technical Writer",
+    "IT Support Specialist",
+    "Web Developer",
+    "AI Researcher",
+    "Blockchain Developer",
+    "Robotics Engineer",
+    "Augmented Reality Developer",
+    "Virtual Reality Developer",
+    "Data Engineer",
+    "Quality Assurance Engineer",
+    "Sales Engineer",
+    "Digital Marketing Specialist",
+    "Content Strategist",
+    "SEO Specialist",
+    "Social Media Manager",
+    "E-commerce Specialist",
+    "Cloud Security Specialist",
+    "IT Project Manager",
+    "Business Intelligence Analyst",
+    "Systems Architect",
+    "IT Consultant",
+    "Technical Support Engineer",
+    "Network Security Engineer",
+    "Penetration Tester",
+    "Incident Response Analyst",
+    "Data Privacy Officer",
+    "Compliance Analyst",
+    "IT Auditor",
+    "Cloud Solutions Engineer",
+    "Big Data Engineer",
+    "Data Visualization Specialist"
+  ]
+}
